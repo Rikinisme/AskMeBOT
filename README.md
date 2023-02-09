@@ -2,6 +2,13 @@
 
 ***WhatsAppBot ChatGPT - Dibuat dengan NodeJS menggunakan Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
+# Table of Contents
+- [Project History](#url)
+- [Contact Details](#url)
+- [Installation](#url)
+- [Feature](#url)
+- [License](#url)
+
 ## Project History
 Project BOT ini dibuat untuk memenuhi tugas 2 (Final AI Project) Kecerdasan Buatan.
 
