@@ -3,11 +3,11 @@
 ***WhatsAppBot ChatGPT - Dibuat dengan NodeJS menggunakan Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
 # Table of Contents
-- [Project History](#https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#project-history)
-- [Contact Details](#https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#contact-details)
-- [Installation](#https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#installation)
-- [Feature](#https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#feature)
-- [License](#https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#license)
+- [Project History](https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#project-history)
+- [Contact Details](https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#contact-details)
+- [Installation](https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#installation)
+- [Feature](https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#feature)
+- [License](https://github.com/Rikinisme/AskMeBOT/blob/main/README.md#license)
 
 ## Project History
 Project BOT ini dibuat untuk memenuhi tugas 2 (Final AI Project) Kecerdasan Buatan.
