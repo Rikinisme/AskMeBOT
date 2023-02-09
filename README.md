@@ -20,7 +20,7 @@ AskMeBOT ini memiliki kemampuan untuk membantu dalam pembuatan konten seperti we
 Kelompok ini terdiri dari 3 orang yaitu :
 - Riki (207002416008)
 - Fajri Ramadhan (207002416009)
-- Febby Trysyawal Pratama ( 207002416010)
+- Febby Trisyawal Pratama ( 207002416010)
 
 ## Installation
 
